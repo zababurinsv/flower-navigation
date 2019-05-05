@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+dist
+.idea/
+.vscode/
+node_modules
+.hgsubstate
+.firebaserc
+firebase.json
+functions
