@@ -6,7 +6,9 @@
   "scripts": {
     "type scrypt build": "gulp"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tar": ">=4.4.2"
+  },
   "devDependencies": {
     "del": "^4.1.1",
     "gulp": "^4.0.0",
